@@ -21,6 +21,6 @@ function sayHiToGrandma(string){
   return("YES INDEED!")}
 }
 function sayHiToGrandma(string){
-  if(string === string.ILoveYouGrandma()){
+  if(string === string.toMixedCase()){
     return("I love you, too")}
 }
