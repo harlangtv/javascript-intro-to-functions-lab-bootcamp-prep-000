@@ -20,3 +20,7 @@ function sayHiToGrandma(string){
   if(string === string.toUpperCase()){
   return("YES INDEED!")}
 }
+function sayHiToGrandma(string){
+  if(string === string.ILoveYouGrandma()){
+    return("I love you, too")}
+}
